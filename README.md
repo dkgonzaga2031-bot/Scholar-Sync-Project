@@ -1,6 +1,31 @@
 # input your part here, JOSH CRUZADO
 
-# after josh's part. Input your part here, MARKO ALBITAR
+##  Technologies Used
+
+- *Python* – Main programming language
+- *JSON* – Persistent data storage
+- *GitHub* – Project collaboration and version control
+
+##  Data Storage
+
+ScholarSync uses a JSON file named tasks_data.json to store academic task records.
+
+Each task contains the following information:
+
+- Task ID
+- Subject
+- Task title
+- Difficulty level
+- Due date
+- Estimated study hours
+- Actual study hours
+- Completion status
+
+The JSON format allows the program to save and retrieve records, making it possible to track academic progress over multiple weeks.
+
+##  Getting Started
+
+
 
 ## Program Menu
 
