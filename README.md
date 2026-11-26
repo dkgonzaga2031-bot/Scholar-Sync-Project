@@ -56,10 +56,6 @@ Each task contains the following information:
 
 The JSON format allows the program to save and retrieve records, making it possible to track academic progress over multiple weeks.
 
-##  Getting Started
-
-
-
 ## Program Menu
 
 Users can interact with ScholarSync through the following menu:
