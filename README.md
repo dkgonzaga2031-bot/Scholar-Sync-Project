@@ -1,4 +1,4 @@
-#  ScholarSync: Student Task & Study Load Analyzer
+#  ScholarSync: Student Task & Study Load Analyzer (PROJECT PROPOSAL)
 
 ##  About the Project
 
