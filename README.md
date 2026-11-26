@@ -1,4 +1,3 @@
-# input your part here, JOSH CRUZADO
 #  ScholarSync: Student Task & Study Load Analyzer
 
 ##  About the Project
